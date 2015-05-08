@@ -1,0 +1,12 @@
+The software uses these parts of code, packages, libraries, resources:
+    
+* Python packages:
+    numpy
+    scipy
+    pyqtgraph
+    tifffile
+    PyQt4
+    opencv3
+    lxml
+    
+* Some icons are reused tango icons.
