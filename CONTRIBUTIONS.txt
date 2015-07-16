@@ -9,4 +9,4 @@ The software uses these parts of code, packages, libraries, resources:
     opencv3
     lxml
     
-* Some icons are reused tango icons.
+* Some icons are modifie and unmodified tango icons.
