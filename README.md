@@ -31,4 +31,13 @@ The program saves stiched images into tiff and png only (no jpg or other lossy f
 Additionaly to the output images, program outputs world files useful in opening images in GIS, allowing to scale up properly in GIS programs such as Qgis (tested). The world files contains the resolution information, and will work in any metric coordinate system.
 
 The hdf5 output implementation are planed.
-     
+
+# dependencies:
+     *the program are intended to be used with python3 (due to cleaner utf-8 support)
+     *pyqt4
+     *pyqtgraph
+     *numpy
+     *scipy (for png handling)
+     *opencv3 (just opencv3 works with python3)
+     *tifffile (by Christoph Gohlke)
+     *lxml
