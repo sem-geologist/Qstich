@@ -1,4 +1,4 @@
-# Qstich
+# Qstitch
 
 This software are designed to easy up stitching of the tiled/mosaiced SEM images/ spectral images.
 At this moment sofware works just with data saved by Bruker Esprit 1.9.
